@@ -1,0 +1,6 @@
+{
+  "name": "Booky",
+  "description": "A modern, minimalist, and sleek book reader and creator. Build, edit, and read books with page-flip or scrolling views, customize fonts and languages, and export beautiful PDFs with text and images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
